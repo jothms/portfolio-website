@@ -36,31 +36,22 @@ experience:
     #    * Modelling
     #    * Deploying
         
-  - title: Working Student - Hardware Development/Product Management
-    company: Kinexon
-    company_url: 'https://kinexon.com/'
+  - title: Production Consultant
+    company: CHASS ENGINEERING
+    company_url: ''
     company_logo: 
     location: Munich
-    date_start: '2018-11-12'
-    date_end: '2021-03-31'
+    date_start: '2014-06-01'
+    date_end: '2015-11-01'
     #description: Taught electronic engineering and researched semiconductor physics.
 
-  - title: Graduate Research Assistant - Chair of Geoinformatics
-    company: TU Munich
-    company_url: 'https://www.tum.de/'
+  - title: Graduate Engineer Program
+    company: Indian SPACE RESEARCH ORGANIZATION (Department of Space)
+    company_url: 'https://www.isro.gov.in/'
     company_logo: 
-    location: Munich
-    date_start: '2018-04-01'
-    date_end: '2021-08-31'
-    #description: Taught electronic engineering and researched semiconductor physics.
-
-  - title: Student Research Assistant - Chair of Visual Computing Lab
-    company: TU Munich
-    company_url: 'https://www.niessnerlab.org/'
-    company_logo: 
-    location: Munich
-    date_start: '2018-03-01'
-    date_end: '2018-09-30'
+    location: India
+    date_start: '2013-06-01'
+    date_end: '2014-06-01'
     #description: Taught electronic engineering and researched semiconductor physics.
 
 design:
