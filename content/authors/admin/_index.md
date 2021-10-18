@@ -10,7 +10,7 @@ role: Master Graduate - Power Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Technical University of Munich
+- name: Technical University of Munich Austra
   url: https://www.tum.de/
 
 # Short bio (displayed in user profile at end of posts)
@@ -68,6 +68,6 @@ email: ""
 highlight_name: true
 ---
 
-Joseph Thomas Thekkekara is a recent graduate in Master of Science in Power Engineering from Technical University of Munich with a strong background in Electrical Engineering specializing in Embedded Electronics. Excellent team player and a skillful leader with excellent communication and presentation skills gained through numerous hackathons and projects. Maker, Hacker and a humble nerd. Linux enthusiast and loves doing Linux ricing and automation!
+Joseph Thomas Thekkekara is a recent graduate in Master of Science in Power Engineering from Technical University of Munich with a strong background in Electrical Engineering specializing in Embedded Electronics. Excellent team player and a skillful leader with excellent communication and presentation skills gained through numerous hackathons and projects. Maker, Hacker and a humble nerd. Linux enthusiast and loves doing Linux ricing and automation! ehjrfhw fej whfejw kfjkwh fjjwkk fdwkj fdkwj dfkwd fkwdf jkw dfjw fkwfkjfkwj fdjk fkjwfkwj fjwf kwhfkj wf jkw
 
 {{< icon name="download" pack="fas" >}} Please download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
