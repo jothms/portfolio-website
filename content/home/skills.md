@@ -19,27 +19,27 @@ feature:
 - description: 75%
   icon: microchip
   icon_pack: fas
-  name: H/W Development
+  name: Product Development
 - description: 80%
   icon: linux
   icon_pack: fab
-  name: Linux
+  name: Design Thinking
 - description: 85%
   icon: raspberry-pi
   icon_pack: fab
-  name: Raspberry Pi
+  name: Lean Manufacturing
 - description: 70%
   icon: tools
   icon_pack: fas
-  name: Prototyping
+  name: Rapid Prototyping
 - description: 75%
   icon: wifi
   icon_pack: fas
-  name: IoT
+  name: Computer Aided Design
 - description: 80%
   icon: screwdriver
   icon_pack: fas
-  name: PCB Assembling
+  name: Project Management
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
 #  icon_pack: emoji

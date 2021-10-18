@@ -22,6 +22,7 @@ interests:
 - Smart Factories
 - Production Technology
 - Robotics
+- Innovation Management
 - Internet of Things
 
 # Education to show in About widget

@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Cohort Member - Founders' Program
-    company: Antler
-    company_url: 'https://www.antler.co/berlin'
+  - title: Production and Logistics Intern
+    company: ProGlove
+    company_url: 'https://www.proglove.com/'
     company_logo: 
-    location: Berlin
-    date_start: '2021-04-01'
-    date_end: '2021-07-31'
+    location: Munich
+    date_start: '2016-09-01'
+    date_end: '2017-02-01'
     #description: |2-
     #    Responsibilities include:
     #    
