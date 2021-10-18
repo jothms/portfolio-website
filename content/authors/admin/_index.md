@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Joseph Thomas Thekkekara 
+title: Dipl.-Ing. Joseph Thomas Thekkekara 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Dipl.-Ing. Production Science and Management
+role: Production Science and Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,20 +18,21 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Embedded Electronics
+- Product Development
+- Smart Factories
+- Production Technology
+- Robotics
 - Internet of Things
-- Linux
-
 
 # Education to show in About widget
 education:
   courses:
   - course: M.Sc. in Production Science and Management
-    institution: Technische Universität Graz
+    institution: Technische Universität Graz, Austria
     year: 2021
-  - course: B.Tech in Electrical and Electronics Engineering, 2012 - 2016
-    institution: Mahatma Gandhi University 
-    year: 6th rank out of 1493 students
+  - course: B.E. in Mechanical and Production Engineering
+    institution: Sathyabama University, India
+    year: 2012
 
 
 # Social/Academic Networking
@@ -46,13 +47,13 @@ social:
     header: true
 - icon: github
   icon_pack: fab
-  link: https://github.com/sebastn
+  link: https://github.com/jothms
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/sebastnt/
+  link: www.linkedin.com/in/t-joseph-thomas
 - icon: calendar-alt
   icon_pack: far
-  link: https://calendly.com/sebastiant/coffee_chat
+  link: https://calendly.com/jothms/coffee_chat
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,6 +69,7 @@ email: ""
 highlight_name: true
 ---
 
-Joseph Thomas Thekkekara is a recent graduate in Master of Science in Power Engineering from Technical University of Munich with a strong background in Electrical Engineering specializing in Embedded Electronics. Excellent team player and a skillful leader with excellent communication and presentation skills gained through numerous hackathons and projects. Maker, Hacker and a humble nerd. Linux enthusiast and loves doing Linux ricing and automation! ehjrfhw fej whfejw kfjkwh fjjwkk fdwkj fdkwj dfkwd fkwdf jkw dfjw fkwfkjfkwj fdjk fkjwfkwj fjwf kwhfkj wf jkw
+Dynamic, accomplished Mechanical Engineer with more than 4+ years of experience in various high-level engineering projects and startup ventures. Creative disrupter with skill sets intersecting Mechanical and Production
+Engineering and Innovation management. Out-of-the-box innovative thinker and a multidisciplinary creative who can bring in new perspectives when building new products and services.  Get shit done mentality with a love for startup ventures and fast-paced environments. Expertise in scaling and ramping up business verticals and projects in corporate and startup environments.
 
 {{< icon name="download" pack="fas" >}} Please download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
