@@ -6,12 +6,12 @@ title: Joseph Thomas Thekkekara
 superuser: true
 
 # Role/position/tagline
-role: Master Graduate - Power Engineering
+role: Dipl.-Ing. Production Science and Management
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Technical University of Munich Austra
-  url: https://www.tum.de/
+- name: Technische Universität Graz
+  url: https://www.tugraz.at/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -26,9 +26,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: M.Sc. in Power Engineering
-    institution: Technical University of Munich
-    year: 2017 - 2021
+  - course: M.Sc. in Production Science and Management
+    institution: Technische Universität Graz
+    year: 2021
   - course: B.Tech in Electrical and Electronics Engineering, 2012 - 2016
     institution: Mahatma Gandhi University 
     year: 6th rank out of 1493 students
