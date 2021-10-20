@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 75%
-  icon: microchip
+  icon: wrench
   icon_pack: fas
   name: Product Development
 - description: 80%
