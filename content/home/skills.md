@@ -25,15 +25,15 @@ feature:
   icon_pack: fab
   name: Design Thinking
 - description: 85%
-  icon: raspberry-pi
-  icon_pack: fab
+  icon: industry
+  icon_pack: fas
   name: Lean Manufacturing
 - description: 70%
   icon: tools
   icon_pack: fas
   name: Rapid Prototyping
 - description: 75%
-  icon: wifi
+  icon: drafting-compass
   icon_pack: fas
   name: Computer Aided Design
 - description: 80%

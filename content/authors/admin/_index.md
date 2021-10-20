@@ -31,7 +31,7 @@ education:
   - course: M.Sc. in Production Science and Management
     institution: Technische Universität Graz, Austria
     year: 2021
-  - course: B.E. in Mechanical and Production Engineering
+  - course: B.Sc. in Mechanical and Production Engineering
     institution: Sathyabama University, India
     year: 2012
 
