@@ -20,5 +20,29 @@
       <description></description>
     </item>
     
+    <item>
+      <title>External Project</title>
+      <link>/project/product-development/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/product-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/project-management/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/project-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>/project/six-sigma/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/six-sigma/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
