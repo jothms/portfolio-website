@@ -195,5 +195,554 @@ sliderJQuery(function( $ ) {
 </description>
     </item>
     
+    <item>
+      <title>Mechanical Engineering</title>
+      <link>/project/product-development/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/project/product-development/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Certificate 1&lt;/li&gt;
+&lt;li&gt;Certificate 2&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+    
+    &lt;link href=&#34;https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+
+
+    
+    &lt;script src=&#34;https://code.jquery.com/jquery-3.2.1.slim.min.js&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;style&gt;
+#slide-window {
+    position: relative;
+    width: 750px;
+    height: 500px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+
+#slides-list {
+    width: 750px;
+    height: 500px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 750px;
+    height: 500px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.nav:hover {
+    opacity: 1.0;
+}
+
+#left {
+    left: 3%;
+    float: left;
+}
+
+#right {
+    right: 3%;
+    float: right;
+}
+&lt;/style&gt;
+
+
+&lt;div id=&#34;slide-window&#34;&gt;
+    &lt;ol id=&#34;slides-list&#34;&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/antler.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/kinexon.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/linkedin.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/proglove.svg);&#34;&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;span class=&#34;nav fa fa-chevron-left fa-3x&#34; id=&#34;left&#34;&gt;&lt;/span&gt;
+    &lt;span class=&#34;nav fa fa-chevron-right fa-3x&#34; id=&#34;right&#34;&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+
+    $(document).ready(function () {
+        var slideWindowWidth = $(&#39;#slide-window&#39;).width();
+        var slideCount = $(&#39;#slides-list li&#39;).length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+
+        $.global.item = 0;
+        $.global.total = slideCount;
+
+        $(&#39;.slide&#39;).css(&#39;width&#39;, slideWindowWidth + &#39;px&#39;);
+        $(&#39;#slides-list&#39;).css(&#39;width&#39;, totalSlidesWidth + &#39;px&#39;);
+
+        $(&#39;#left&#39;).click(function () {
+            resetAutoSlide();
+            performSlide(&#39;back&#39;);
+        });
+
+        $(&#39;#right&#39;).click(function () {
+            resetAutoSlide();
+            performSlide(&#39;forward&#39;);
+        });
+
+    });
+
+    function performSlide(direction) {
+        if (direction == &#39;back&#39;) {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == &#39;forward&#39;) {
+            var nextSlideId = $.global.item + 1;
+        }
+
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $(&#39;#slide-window&#39;).width();
+        var margin = slideWindowWidth * nextSlideId;
+
+        $(&#39;#slides-list&#39;).css(&#39;transform&#39;, &#39;translate3d(-&#39; + margin + &#39;px,0px,0px)&#39;);
+
+        $.global.item = nextSlideId;
+    }
+
+    
+      var autoSlide = parseInt(&#34;0&#34;, 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide(&#39;forward&#39;);
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanical Engineering</title>
+      <link>/project/project-management/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/project/project-management/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Certificate 1&lt;/li&gt;
+&lt;li&gt;Certificate 2&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+    
+    &lt;link href=&#34;https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+
+
+    
+    &lt;script src=&#34;https://code.jquery.com/jquery-3.2.1.slim.min.js&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;style&gt;
+#slide-window {
+    position: relative;
+    width: 750px;
+    height: 500px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+
+#slides-list {
+    width: 750px;
+    height: 500px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 750px;
+    height: 500px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.nav:hover {
+    opacity: 1.0;
+}
+
+#left {
+    left: 3%;
+    float: left;
+}
+
+#right {
+    right: 3%;
+    float: right;
+}
+&lt;/style&gt;
+
+
+&lt;div id=&#34;slide-window&#34;&gt;
+    &lt;ol id=&#34;slides-list&#34;&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/antler.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/kinexon.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/linkedin.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/proglove.svg);&#34;&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;span class=&#34;nav fa fa-chevron-left fa-3x&#34; id=&#34;left&#34;&gt;&lt;/span&gt;
+    &lt;span class=&#34;nav fa fa-chevron-right fa-3x&#34; id=&#34;right&#34;&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+
+    $(document).ready(function () {
+        var slideWindowWidth = $(&#39;#slide-window&#39;).width();
+        var slideCount = $(&#39;#slides-list li&#39;).length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+
+        $.global.item = 0;
+        $.global.total = slideCount;
+
+        $(&#39;.slide&#39;).css(&#39;width&#39;, slideWindowWidth + &#39;px&#39;);
+        $(&#39;#slides-list&#39;).css(&#39;width&#39;, totalSlidesWidth + &#39;px&#39;);
+
+        $(&#39;#left&#39;).click(function () {
+            resetAutoSlide();
+            performSlide(&#39;back&#39;);
+        });
+
+        $(&#39;#right&#39;).click(function () {
+            resetAutoSlide();
+            performSlide(&#39;forward&#39;);
+        });
+
+    });
+
+    function performSlide(direction) {
+        if (direction == &#39;back&#39;) {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == &#39;forward&#39;) {
+            var nextSlideId = $.global.item + 1;
+        }
+
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $(&#39;#slide-window&#39;).width();
+        var margin = slideWindowWidth * nextSlideId;
+
+        $(&#39;#slides-list&#39;).css(&#39;transform&#39;, &#39;translate3d(-&#39; + margin + &#39;px,0px,0px)&#39;);
+
+        $.global.item = nextSlideId;
+    }
+
+    
+      var autoSlide = parseInt(&#34;0&#34;, 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide(&#39;forward&#39;);
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanical Engineering</title>
+      <link>/project/six-sigma/</link>
+      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/project/six-sigma/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Certificate 1&lt;/li&gt;
+&lt;li&gt;Certificate 2&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+    
+    &lt;link href=&#34;https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css&#34; rel=&#34;stylesheet&#34;&gt;
+
+
+
+    
+    &lt;script src=&#34;https://code.jquery.com/jquery-3.2.1.slim.min.js&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;
+
+
+
+&lt;style&gt;
+#slide-window {
+    position: relative;
+    width: 750px;
+    height: 500px;
+    overflow: hidden;
+    top: 0px;
+    left: 0px;
+}
+
+#slides-list {
+    width: 750px;
+    height: 500px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    transform: translate3d(0px, 0px, 0px);
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.slide {
+    list-style: none;
+    position: relative;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 750px;
+    height: 500px;
+    background: #ccc;
+    text-align: center;
+    line-height: 100%;
+    background-size: cover;
+    background-position: 50% 50%;
+    color: #fff;
+    -webkit-transform: translate3d(0px, 0px, 0px);
+    -webkit-transform-style: preserve-3d;
+}
+
+.nav {
+    position: relative;
+    z-index: 9;
+    top: 45%;
+    cursor: pointer;
+    color: #fff;
+    opacity: 0.7;
+    transition: all 0.66s ease;
+    -webkit-transition: all 0.66s ease;
+}
+
+.nav:hover {
+    opacity: 1.0;
+}
+
+#left {
+    left: 3%;
+    float: left;
+}
+
+#right {
+    right: 3%;
+    float: right;
+}
+&lt;/style&gt;
+
+
+&lt;div id=&#34;slide-window&#34;&gt;
+    &lt;ol id=&#34;slides-list&#34;&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/antler.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/kinexon.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/linkedin.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/proglove.svg);&#34;&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+    &lt;span class=&#34;nav fa fa-chevron-left fa-3x&#34; id=&#34;left&#34;&gt;&lt;/span&gt;
+    &lt;span class=&#34;nav fa fa-chevron-right fa-3x&#34; id=&#34;right&#34;&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+sliderJQuery = jQuery.noConflict();
+sliderJQuery(function( $ ) {
+    $.global = new Object();
+    $.global.total = 0;
+
+    $(document).ready(function () {
+        var slideWindowWidth = $(&#39;#slide-window&#39;).width();
+        var slideCount = $(&#39;#slides-list li&#39;).length;
+        var totalSlidesWidth = slideCount * slideWindowWidth;
+
+        $.global.item = 0;
+        $.global.total = slideCount;
+
+        $(&#39;.slide&#39;).css(&#39;width&#39;, slideWindowWidth + &#39;px&#39;);
+        $(&#39;#slides-list&#39;).css(&#39;width&#39;, totalSlidesWidth + &#39;px&#39;);
+
+        $(&#39;#left&#39;).click(function () {
+            resetAutoSlide();
+            performSlide(&#39;back&#39;);
+        });
+
+        $(&#39;#right&#39;).click(function () {
+            resetAutoSlide();
+            performSlide(&#39;forward&#39;);
+        });
+
+    });
+
+    function performSlide(direction) {
+        if (direction == &#39;back&#39;) {
+            var nextSlideId = $.global.item - 1;
+        }
+        if (direction == &#39;forward&#39;) {
+            var nextSlideId = $.global.item + 1;
+        }
+
+        if (nextSlideId == -1) {
+             
+            moveCss($.global.total - 1);
+        } else if (nextSlideId == $.global.total) {
+             
+            moveCss(0);
+        } else {
+             
+            moveCss(nextSlideId);
+        }
+    }
+
+    function moveCss(nextSlideId) {
+        var slideWindowWidth = $(&#39;#slide-window&#39;).width();
+        var margin = slideWindowWidth * nextSlideId;
+
+        $(&#39;#slides-list&#39;).css(&#39;transform&#39;, &#39;translate3d(-&#39; + margin + &#39;px,0px,0px)&#39;);
+
+        $.global.item = nextSlideId;
+    }
+
+    
+      var autoSlide = parseInt(&#34;0&#34;, 10);
+      var autoSlideInterval;
+      function resetAutoSlide(){
+        if(autoSlide) {
+          if(autoSlideInterval) {
+            clearInterval(autoSlideInterval);
+          }
+          autoSlideInterval = setInterval(function(){
+            performSlide(&#39;forward&#39;);
+          }, autoSlide)
+        }
+      }
+      resetAutoSlide();
+});
+&lt;/script&gt;
+
+</description>
+    </item>
+    
   </channel>
 </rss>
