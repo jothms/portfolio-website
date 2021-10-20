@@ -21,8 +21,8 @@ feature:
   icon_pack: fas
   name: Product Development
 - description: 80%
-  icon: linux
-  icon_pack: fab
+  icon: cogs
+  icon_pack: fas
   name: Design Thinking
 - description: 85%
   icon: industry
@@ -37,7 +37,7 @@ feature:
   icon_pack: fas
   name: Computer Aided Design
 - description: 80%
-  icon: screwdriver
+  icon: clock
   icon_pack: fas
   name: Project Management
 # Uncomment to use emoji icons.
