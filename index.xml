@@ -129,9 +129,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Mechanical Engineering</title>
-      <link>/project/certifications/</link>
+      <link>/project/mechanical/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/project/certifications/</guid>
+      <guid>/project/mechanical/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;Certificate 1&lt;/li&gt;
 &lt;li&gt;Certificate 2&lt;/li&gt;
@@ -415,7 +415,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-871263549&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-154389276&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -425,7 +425,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-871263549&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-154389276&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
