@@ -25,7 +25,7 @@ experience:
   - title: Production and Logistics Intern
     company: ProGlove
     company_url: 'https://www.proglove.com/'
-    company_logo: 
+    company_logo: proglove
     location: Munich
     date_start: '2016-09-01'
     date_end: '2017-02-01'
@@ -48,7 +48,7 @@ experience:
   - title: Graduate Engineer Program
     company: Indian SPACE RESEARCH ORGANIZATION (Department of Space)
     company_url: 'https://www.isro.gov.in/'
-    company_logo: 
+    company_logo: ISRO 
     location: India
     date_start: '2013-06-01'
     date_end: '2014-06-01'
