@@ -75,8 +75,7 @@ Fusion 360: 3D Printed Product Enclosure    03  2021
 
 PROJECT MANAGEMENT
 Software Project Management Foundations     03  2021
-Project Management Foundations              03  2021
-Operational Excellence Foundations          01  2021
+
 Develop Your Project Management Skills      03  2021
 Project Management Foundations: Requirements03  2021
 *Become a Project Manager                   03  2021
@@ -86,9 +85,8 @@ Managing Project Stakeholders               03  2021
 Project Management Foundations: Budgets     03  2021
 Project Management Foundations: Schedules   03  2021
 Project Management Foundations: Ethics      03  2021
-Project Management Foundations: Communication03 2021
-Project Management Foundations: Teams       03  2021
-Change Management Foundations               03  2021
+03 2021
+           03  2021
 
 
 
@@ -98,6 +96,7 @@ Statistics Foundations: 1                   03  2021
 Statistics Foundations: 2                   03  2021
 Statistics Foundations: 3                   03  2021
 *Become a Six Sigma Yellow Belt             03  2021
+Operational Excellence Foundations          01  2021
 *Becoming a Six Sigma Green Belt            03  2021
 Six Sigma: Green Belt                       03  2021
 Operational Excellence Work-Out and Kaizen Facilitator      03  2021
