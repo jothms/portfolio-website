@@ -6,12 +6,6 @@ active: false
 # This file represents a page section.
 headless: true
 
-title: Product Development
-summary: Certifications related tosdfsd
-tags:
-- Mech
-date: "2021-10-20T00:00:00Z"
-
 # Order that this section appears on the page.
 weight: 65
 
