@@ -5,7 +5,7 @@
     <link>/courses/example/</link>
       <atom:link href="/courses/example/index.xml" rel="self" type="application/rss+xml" />
     <description>📊 Learn Data Science</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Joseph Thomas Thekkekara, 2021 · Made with ,  , the  Wowchemy package, and the Academic theme for Hugo.</copyright><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/courses/example/featured.jpg</url>
       <title>📊 Learn Data Science</title>
