@@ -17,45 +17,7 @@
       <link>/project/product-development/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/project/product-development/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Certificate 1&lt;/li&gt;
-&lt;li&gt;Certificate 2&lt;/li&gt;
-&lt;/ul&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Calculusj&lt;/th&gt;
-&lt;th&gt;Asss&lt;/th&gt;
-&lt;th&gt;sasd&lt;/th&gt;
-&lt;th&gt;sdasdad&lt;/th&gt;
-&lt;th&gt;dsasda&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;sada @icn-camera icon to&lt;/td&gt;
-&lt;td&gt;kljlk&lt;/td&gt;
-&lt;td&gt;j&lt;/td&gt;
-&lt;td&gt;lj&lt;/td&gt;
-&lt;td&gt;kj&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;i class=&#39;fab fa-markdown fa-flip-vertical fa-3x&#39;&gt;F&lt;/i&gt; fa-flip-vertical&lt;br&gt; ljk&lt;/td&gt;
-&lt;td&gt;jl&lt;/td&gt;
-&lt;td&gt;jl&lt;/td&gt;
-&lt;td&gt;jlk&lt;/td&gt;
-&lt;td&gt;l&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;jl&lt;/td&gt;
-&lt;td&gt;kjlk&lt;/td&gt;
-&lt;td&gt;l&lt;/td&gt;
-&lt;td&gt;jlk&lt;/td&gt;
-&lt;td&gt;l&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
+      <description>
 
 
 
@@ -76,7 +38,7 @@
 &lt;style&gt;
 #slide-window {
     position: relative;
-    width: 750px;
+    width: 720px;
     height: 500px;
     overflow: hidden;
     top: 0px;
@@ -84,7 +46,7 @@
 }
 
 #slides-list {
-    width: 750px;
+    width: 720px;
     height: 500px;
     position: absolute;
     margin: 0px;
@@ -101,7 +63,7 @@
     float: left;
     margin: 0;
     padding: 0;
-    width: 750px;
+    width: 720px;
     height: 500px;
     background: #ccc;
     text-align: center;
@@ -210,7 +172,7 @@ sliderJQuery(function( $ ) {
     }
 
     
-      var autoSlide = parseInt(&#34;0&#34;, 10);
+      var autoSlide = parseInt(&#34;4000&#34;, 10);
       var autoSlideInterval;
       function resetAutoSlide(){
         if(autoSlide) {
@@ -226,6 +188,45 @@ sliderJQuery(function( $ ) {
 });
 &lt;/script&gt;
 
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificate 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificate 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Calculusj&lt;/th&gt;
+&lt;th&gt;Asss&lt;/th&gt;
+&lt;th&gt;sasd&lt;/th&gt;
+&lt;th&gt;sdasdad&lt;/th&gt;
+&lt;th&gt;dsasda&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;sada @icn-camera icon to&lt;/td&gt;
+&lt;td&gt;kljlk&lt;/td&gt;
+&lt;td&gt;j&lt;/td&gt;
+&lt;td&gt;lj&lt;/td&gt;
+&lt;td&gt;kj&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;i class=&#39;fab fa-markdown fa-flip-vertical fa-3x&#39;&gt;F&lt;/i&gt; fa-flip-vertical&lt;br&gt; ljk&lt;/td&gt;
+&lt;td&gt;jl&lt;/td&gt;
+&lt;td&gt;jl&lt;/td&gt;
+&lt;td&gt;jlk&lt;/td&gt;
+&lt;td&gt;l&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;jl&lt;/td&gt;
+&lt;td&gt;kjlk&lt;/td&gt;
+&lt;td&gt;l&lt;/td&gt;
+&lt;td&gt;jlk&lt;/td&gt;
+&lt;td&gt;l&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 </description>
     </item>
     
