@@ -1,6 +1,6 @@
 ---
-title: Mechanical Engineering
-summary: Certifications related to Mechanical Engineering
+title: Product Development
+summary: Certifications related tosdfsd
 tags:
 - Mech
 date: "2021-10-20T00:00:00Z"
@@ -35,5 +35,11 @@ item:
 
 * Certificate 1
 * Certificate 2
+
+| Calculusj | Asss  | sasd | sdasdad | dsasda |
+|-----------|-------|------|---------|--------|
+| sada @icn-camera icon to      | kljlk | j    | lj      | kj     |
+| <i class='fab fa-markdown fa-flip-vertical fa-3x'>F</i> fa-flip-vertical<br> ljk       | jl    | jl   | jlk     | l      |
+| jl        | kjlk  | l    | jlk     | l      |
 
 {{< gallery-slider dir="/img/" width="750px" height="500px" >}}

@@ -1,6 +1,6 @@
 ---
 title: Mechanical Engineering
-summary: Certifications related to Mechanical Engineering
+summary: sdfsdf
 tags:
 - Mech
 date: "2021-10-20T00:00:00Z"

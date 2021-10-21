@@ -1,9 +1,9 @@
 ---
-title: Mechanical Engineering
-summary: Certifications related to Mechanical Engineering
+title: Project Management
+summary: dsfsdf
 tags:
 - Mech
-date: "2021-10-20T00:00:00Z"
+date: ""
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
