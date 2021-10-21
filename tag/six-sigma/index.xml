@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mech | Academic</title>
-    <link>/tag/mech/</link>
-      <atom:link href="/tag/mech/index.xml" rel="self" type="application/rss+xml" />
-    <description>Mech</description>
+    <title>six-sigma | Engineering &amp; abstract problem solving</title>
+    <link>/tag/six-sigma/</link>
+      <atom:link href="/tag/six-sigma/index.xml" rel="self" type="application/rss+xml" />
+    <description>six-sigma</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hud5a1d0563d6eb59a78b1280f92f270ed_54800_512x512_fill_lanczos_center_3.png</url>
-      <title>Mech</title>
-      <link>/tag/mech/</link>
+      <title>six-sigma</title>
+      <link>/tag/six-sigma/</link>
     </image>
     
     <item>
-      <title>Mechanical Engineering</title>
-      <link>/project/certifications/</link>
+      <title>Six Sigma</title>
+      <link>/project/six-sigma/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/project/certifications/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;Certificate 1&lt;/li&gt;
-&lt;li&gt;Certificate 2&lt;/li&gt;
-&lt;/ul&gt;
-
+      <guid>/project/six-sigma/</guid>
+      <description>
 
 
 
@@ -42,7 +38,7 @@
 &lt;style&gt;
 #slide-window {
     position: relative;
-    width: 750px;
+    width: 720px;
     height: 500px;
     overflow: hidden;
     top: 0px;
@@ -50,7 +46,7 @@
 }
 
 #slides-list {
-    width: 750px;
+    width: 720px;
     height: 500px;
     position: absolute;
     margin: 0px;
@@ -67,7 +63,7 @@
     float: left;
     margin: 0;
     padding: 0;
-    width: 750px;
+    width: 720px;
     height: 500px;
     background: #ccc;
     text-align: center;
@@ -176,7 +172,7 @@ sliderJQuery(function( $ ) {
     }
 
     
-      var autoSlide = parseInt(&#34;0&#34;, 10);
+      var autoSlide = parseInt(&#34;4000&#34;, 10);
       var autoSlideInterval;
       function resetAutoSlide(){
         if(autoSlide) {
@@ -192,6 +188,11 @@ sliderJQuery(function( $ ) {
 });
 &lt;/script&gt;
 
+&lt;br&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificate 1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificate 2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
