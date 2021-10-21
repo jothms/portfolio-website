@@ -223,6 +223,7 @@ The variance of the distribution is $\sigma^{2}$.
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/kinexon.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/linkedin.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/proglove.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/sample.jpeg);&#34;&gt;&lt;/li&gt;
     &lt;/ol&gt;
     &lt;span class=&#34;nav fa fa-chevron-left fa-3x&#34; id=&#34;left&#34;&gt;&lt;/span&gt;
     &lt;span class=&#34;nav fa fa-chevron-right fa-3x&#34; id=&#34;right&#34;&gt;&lt;/span&gt;
@@ -407,6 +408,7 @@ sliderJQuery(function( $ ) {
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/kinexon.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/linkedin.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/proglove.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/sample.jpeg);&#34;&gt;&lt;/li&gt;
     &lt;/ol&gt;
     &lt;span class=&#34;nav fa fa-chevron-left fa-3x&#34; id=&#34;left&#34;&gt;&lt;/span&gt;
     &lt;span class=&#34;nav fa fa-chevron-right fa-3x&#34; id=&#34;right&#34;&gt;&lt;/span&gt;
@@ -643,6 +645,7 @@ Implementing Lean: A Case Study             02  2021&lt;/p&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/kinexon.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/linkedin.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/proglove.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/sample.jpeg);&#34;&gt;&lt;/li&gt;
     &lt;/ol&gt;
     &lt;span class=&#34;nav fa fa-chevron-left fa-3x&#34; id=&#34;left&#34;&gt;&lt;/span&gt;
     &lt;span class=&#34;nav fa fa-chevron-right fa-3x&#34; id=&#34;right&#34;&gt;&lt;/span&gt;
@@ -827,6 +830,7 @@ sliderJQuery(function( $ ) {
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/kinexon.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/linkedin.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/proglove.svg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/sample.jpeg);&#34;&gt;&lt;/li&gt;
     &lt;/ol&gt;
     &lt;span class=&#34;nav fa fa-chevron-left fa-3x&#34; id=&#34;left&#34;&gt;&lt;/span&gt;
     &lt;span class=&#34;nav fa fa-chevron-right fa-3x&#34; id=&#34;right&#34;&gt;&lt;/span&gt;
@@ -1020,7 +1024,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-782465931&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-834679512&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -1030,7 +1034,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-782465931&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-834679512&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
