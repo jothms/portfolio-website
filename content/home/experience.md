@@ -39,7 +39,7 @@ experience:
   - title: Production Consultant
     company: CHASS ENGINEERING
     company_url: ''
-    company_logo: 
+    company_logo: Chass
     location: Munich
     date_start: '2014-06-01'
     date_end: '2015-11-01'

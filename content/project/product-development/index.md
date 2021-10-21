@@ -33,8 +33,12 @@ item:
 #slides: example
 ---
 
-* Certificate 1
-* Certificate 2
+{{< gallery-slider dir="/img/" width="720px" height="500px" auto-slide="4000" >}}  
+
+<br>
+
+* [Certificate 1](https://www.google.com)
+* [Certificate 2](https://www.google.com)
 
 | Calculusj | Asss  | sasd | sdasdad | dsasda |
 |-----------|-------|------|---------|--------|
@@ -42,4 +46,3 @@ item:
 | <i class='fab fa-markdown fa-flip-vertical fa-3x'>F</i> fa-flip-vertical<br> ljk       | jl    | jl   | jlk     | l      |
 | jl        | kjlk  | l    | jlk     | l      |
 
-{{< gallery-slider dir="/img/" width="750px" height="500px" >}}
