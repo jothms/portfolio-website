@@ -32,8 +32,3 @@ item:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-
-* Certificate 1
-* Certificate 2
-
-{{< gallery-slider dir="/img/" width="750px" height="500px" >}}
