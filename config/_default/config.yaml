@@ -5,7 +5,7 @@
 
 title: Engineering & abstract problem solving # Website name
 baseurl: '' # Website URL
-copyright: '© Joseph Thomas Thekkekara, 2021 · Made with ,  , the  Wowchemy package, and the Academic theme for Hugo.' # Footer text, e.g. '© {year} Me'
+copyright: #'© Joseph Thomas Thekkekara, 2021 · Made with ,  , the  Wowchemy package, and the Academic theme for Hugo.'  Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
