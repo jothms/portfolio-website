@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Six Sigma</title>
+      <title>Lean Six Sigma</title>
       <link>/project/six-sigma/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/project/six-sigma/</guid>
@@ -190,11 +190,6 @@ sliderJQuery(function( $ ) {
 &lt;/script&gt;
 
 &lt;br&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificate 1&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificate 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;statistics-foundations-1&#34;&gt;Statistics Foundations: 1&lt;/h1&gt;
 &lt;h3 id=&#34;become-a-six-sigma-yellow-belt&#34;&gt;Become a Six Sigma Yellow Belt&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Operational Excellence Foundations&lt;/li&gt;
@@ -209,31 +204,16 @@ sliderJQuery(function( $ ) {
 &lt;/ul&gt;
 &lt;h3 id=&#34;becoming-a-six-sigma-green-belt&#34;&gt;Becoming a Six Sigma Green Belt&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Statistics Foundations: 2&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Statistics Foundations: 3&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Learning Minitab&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Six Sigma: Green Belt&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Leading Productive Meetings&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Project Management Foundations: Communication&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Change Management Foundations&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Implementing Lean: A Case Study&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Statistics Foundations: 1&lt;/li&gt;
+&lt;li&gt;Statistics Foundations: 2&lt;/li&gt;
+&lt;li&gt;Statistics Foundations: 3&lt;/li&gt;
+&lt;li&gt;Learning Minitab&lt;/li&gt;
+&lt;li&gt;Six Sigma: Green Belt&lt;/li&gt;
+&lt;li&gt;Leading Productive Meetings&lt;/li&gt;
+&lt;li&gt;Project Management Foundations: Communication&lt;/li&gt;
+&lt;li&gt;Change Management Foundations&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h4 id=&#34;implementing-lean-a-case-study&#34;&gt;Implementing Lean: A Case Study&lt;/h4&gt;
 </description>
     </item>
     
