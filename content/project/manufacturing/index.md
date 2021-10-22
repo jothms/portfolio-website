@@ -1,8 +1,8 @@
 ---
-title: Product Development
-summary: Certifications related tosdfsd
+title: Manufacturing
+summary: Certifications related to Manufacturing
 tags:
-- product-development
+- project-management
 date: "2021-10-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -34,27 +34,11 @@ url_video: ""
 
 <br>
 
-* Tableau Essential Training                  07  2021 
-* Learning SQL Programming                    11  2020
-
-
-
-
-
-* Industrial Design Foundations               
-* Learning Fusion 360 CAM                     
-* SOLIDWORKS: Mold Design                     
-* Master Design for Plastic Manufacturing     
-* Design for Additive Manufacturing: FDM      
-* Fusion 360: Designing for Plastics          
-* Fusion 360: 3D Printed Product Enclosure    
-
-
-
-
-
-
-
-
-
-
+* Engineering Drawings for Manufacturing
+* Introduction to Composite Manufacturing     
+* Stay Ahead in Advanced Manufacturing        
+* G-Code Programming for CNC Foundations      
+* Additive Manufacturing: Optimizing 3D Prints
+* Learning 3D Printing                        
+* Rapid Prototyping for Product Design        
+* Introduction to Geometric Dimensioning and Tolerancing

@@ -1,5 +1,5 @@
 ---
-title: Six Sigma
+title: Lean Six Sigma
 summary: Certifications related tosdfsd
 tags:
 - six-sigma
@@ -34,9 +34,6 @@ url_video: ""
 
 <br>
 
-* [Certificate 1](https://www.google.com)
-* [Certificate 2](https://www.google.com)
-# Statistics Foundations: 1                  
 ### Become a Six Sigma Yellow Belt
 * Operational Excellence Foundations       
 * Six Sigma Foundations                       
@@ -49,6 +46,7 @@ url_video: ""
 * Project Management Foundations: Teams  
 
 ### Becoming a Six Sigma Green Belt            
+* Statistics Foundations: 1                  
 * Statistics Foundations: 2                  
 * Statistics Foundations: 3                  
 * Learning Minitab
@@ -57,6 +55,4 @@ url_video: ""
 * Project Management Foundations: Communication
 * Change Management Foundations 
 
-
-
-* Implementing Lean: A Case Study             
+#### Implementing Lean: A Case Study             
