@@ -34,25 +34,24 @@ url_video: ""
 
 <br>
 
-### Become a Six Sigma Yellow Belt
-* Operational Excellence Foundations       
-* Six Sigma Foundations                       
-* Lean Six Sigma: Define and Measure Tools    
-* Lean Six Sigma: Analyze, Improve, and Control Tools
-* Operational Excellence Work-Out and Kaizen Facilitator
-* Driving Measurable, Sustainable Change
-* Statistics Foundations: The Basics
-* Project Management Foundations
-* Project Management Foundations: Teams  
+### [Become a Six Sigma Yellow Belt](https://drive.google.com/file/d/1L2c8MNmT5GwVVohLtQYL7SO8lpLQzBjI/view?usp=sharing)
+* [Operational Excellence Foundations](https://drive.google.com/file/d/1TAYMsEUVyWltaZqxhbxf1D-9a2_ytlPr/view?usp=sharing) 
+* [Six Sigma Foundations](https://drive.google.com/file/d/18aSxWLizFAOdzwVFqL5QX9NXBjruNxD0/view?usp=sharing)         
+* [Lean Six Sigma: Define and Measure Tools](https://drive.google.com/file/d/1VD8J7SJW_TRJcb9oEiaCfeyZJ63XDy3K/view?usp=sharing)    
+* [Lean Six Sigma: Analyze, Improve, and Control Tools](https://drive.google.com/file/d/1tydbsMVXNGj8PyM4Bq9YTy4vm3uWNXbA/view?usp=sharing)
+* [Operational Excellence Work-Out and Kaizen Facilitator](https://drive.google.com/file/d/1_UA_ZsPhfBXbAgW9YS8-61iwZsF8evND/view?usp=sharing)
+* [Driving Measurable, Sustainable Change](https://drive.google.com/file/d/1aFOcTEL5gQX-F9VxDl0LTOZXddx6D0hK/view?usp=sharing)
+* [Project Management Foundations](https://drive.google.com/file/d/1vj9Zl28c_4W_-EWIFV0lp3ZeLIUdi2_J/view?usp=sharing)
+* [Project Management Foundations: Teams](https://drive.google.com/file/d/1NWBwMMvmaKep7BobrPXG_PiIyRWNEvpB/view?usp=sharing)  
 
-### Becoming a Six Sigma Green Belt            
-* Statistics Foundations: 1                  
-* Statistics Foundations: 2                  
-* Statistics Foundations: 3                  
-* Learning Minitab
-* Six Sigma: Green Belt
-* Leading Productive Meetings
-* Project Management Foundations: Communication
-* Change Management Foundations 
+### [Becoming a Six Sigma Green Belt](https://drive.google.com/file/d/1kOuCIaV6U4GTfPZUNtW8e06-CHz-uFEd/view?usp=sharing)         
+* [Statistics Foundations: 1](https://drive.google.com/file/d/1rTxK2geXIRN8bc3px1X90KzaxqdQHYmg/view?usp=sharing)           
+* [Statistics Foundations: 2](https://drive.google.com/file/d/1rTxK2geXIRN8bc3px1X90KzaxqdQHYmg/view?usp=sharing)           
+* [Statistics Foundations: 3](https://drive.google.com/file/d/1GL30JlkhDBTw9hxjmMFM5F0T0aQ3oAED/view?usp=sharing)               
+* [Learning Minitab](https://drive.google.com/file/d/1Fym4VcO-4k5aE5UNegPwh9EtdMtqGL9C/view?usp=sharing)
+* [Six Sigma: Green Belt](https://drive.google.com/file/d/1kOuCIaV6U4GTfPZUNtW8e06-CHz-uFEd/view?usp=sharing)
+* [Leading Productive Meetings](https://drive.google.com/file/d/1_X4Xq1EqpgjJ5aYLvaZPApHlQO8wNxsz/view?usp=sharing)
+* [Project Management Foundations: Communication](https://drive.google.com/file/d/1AbWzAc4s-i6y6Nnxg8iZZDegC23WkOMj/view?usp=sharing)
+* [Change Management Foundations](https://drive.google.com/file/d/16MyBxDET5hgWTJawRZU9kevU20IOHI5P/view?usp=sharing)
 
-#### Implementing Lean: A Case Study             
+#### [Implementing Lean: A Case Study](https://drive.google.com/file/d/1kOuCIaV6U4GTfPZUNtW8e06-CHz-uFEd/view?usp=sharing)        

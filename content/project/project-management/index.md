@@ -34,7 +34,7 @@ url_video: ""
 
 <br>
 
-### Become a Project Manager
+### [Become a Project Manager](https://drive.google.com/file/d/15EUBlhrbKB4D_L_WOTalowgZXYx5jl7L/view?usp=sharing)
 * [Project Management Foundations](https://drive.google.com/file/d/1vj9Zl28c_4W_-EWIFV0lp3ZeLIUdi2_J/view?usp=sharing)
 * [Project Management Foundations: Ethics](https://drive.google.com/file/d/1zsktor2cRtNj2JCNPWGEecnV03ZIrP6s/view?usp=sharing)
 * [Project Management Foundations: Requirements](https://drive.google.com/file/d/1STO6oNkuCMp5PfMBlrsgsmzb6DVvRJpi/view?usp=sharing)
@@ -46,5 +46,5 @@ url_video: ""
 * [Managing Project Stakeholders](https://drive.google.com/file/d/1JhcyY3dGtRmsOOWjJsRT6E1NENy7E44e/view?usp=sharing)
 * [Microsoft Project Quick Tips](https://drive.google.com/file/d/1pw7njnXNROlBXSIe8wrS7XFWnnv_eGjL/view?usp=sharing)
 
-#### Develop Your Project Management Skills
-#### Software Project Management Foundations
+### [Develop Your Project Management Skills](https://drive.google.com/file/d/1lFksKIjfOwdgAh_qHWqACx09sOB09klC/view?usp=sharing)
+* [Software Project Management Foundations](https://drive.google.com/file/d/1SB2nt38cMVkGzidhWr3wH8fpc-nM_tNN/view?usp=sharing)
