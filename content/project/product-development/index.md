@@ -38,22 +38,31 @@ url_video: ""
 * Learning SQL Programming                    11  2020
 
 
+### Design
 
+* [Industrial Design Foundations](https://drive.google.com/file/d/1zavOrTCTFIH86t6x_tRTMIT_-jSYCVyH/view?usp=sharing)   
+* [Fusion 360: Designing for Plastics](https://drive.google.com/file/d/1qayfP9TaHgakGEF0cvVEiY-5jzPlyevW/view?usp=sharing)         
+* [Fusion 360: 3D Printed Product Enclosure](https://drive.google.com/file/d/1-LxUIJB8ehAwePVtyCi38DAQLeGOWYwt/view?usp=sharing)   
+* [Learning Fusion 360 CAM](https://drive.google.com/file/d/1brXMaxoC7cWvyGjoDqqXr1rB9EV3p5NG/view?usp=sharing)
+* [Design for Additive Manufacturing: FDM]
+* [Master Design for Plastic Manufacturing]     
+* 
 
+* Autodesk Inventor
+* AutoCAD
 
-* Industrial Design Foundations               
-* Learning Fusion 360 CAM                     
-* SOLIDWORKS: Mold Design                     
-* Master Design for Plastic Manufacturing     
-* Design for Additive Manufacturing: FDM      
-* Fusion 360: Designing for Plastics          
-* Fusion 360: 3D Printed Product Enclosure    
+### Solidworks
+* [SOLIDWORKS 2021 Essential Training](https://drive.google.com/file/d/18ML3aaz8PYqI1uJzt4XCzKeeY6KB48mF/view?usp=sharing)
 
+### FEA
+#### [Master Simulation and Structural Analysis for SOLIDWORKS](https://drive.google.com/file/d/1p69nYfWGgUBjOHixNFNzaB9neu1qHqxf/view?usp=sharing)
+* [SOLIDWORKS: SimulationXpress](https://drive.google.com/file/d/1rd0hyqo60gT0KhN7SKqfFuKbkNbEs7So/view?usp=sharing)
+* [SOLIDWORKS: Simulation for Finite Element Analysis](https://drive.google.com/file/d/1ZRRrtnr_wJvTFjs_P0qjSNymMmuP9HTr/view?usp=sharing)
+* [SOLIDWORKS Simulation: Dynamic Analysis](https://drive.google.com/file/d/1EPC0wLW4mMXODm1QYTMQhz3d5UccE6uz/view?usp=sharing)
+* [SOLIDWORKS: Advanced Simulation](https://drive.google.com/file/d/1ylhGdg-6zp2kMqsZ-m3P80XlWnVZMImd/view?usp=sharing)
+* [SOLIDWORKS: Shell and Beam Modeling in FEA](https://drive.google.com/file/d/1dit_kqpFEtGHi6ybccG3tGzAKB9b4RsZ/view?usp=sharing)
 
-
-
-
-
+### Rapid Prototyping
 
 
 
