@@ -109,6 +109,7 @@
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/linkedin.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/proglove.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/sample.jpeg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/venn_diagram.png);&#34;&gt;&lt;/li&gt;
     &lt;/ol&gt;
     &lt;span class=&#34;nav fa fa-chevron-left fa-3x&#34; id=&#34;left&#34;&gt;&lt;/span&gt;
     &lt;span class=&#34;nav fa fa-chevron-right fa-3x&#34; id=&#34;right&#34;&gt;&lt;/span&gt;
@@ -191,14 +192,14 @@ sliderJQuery(function( $ ) {
 
 &lt;br&gt;
 &lt;ul&gt;
-&lt;li&gt;Engineering Drawings for Manufacturing&lt;/li&gt;
-&lt;li&gt;Introduction to Composite Manufacturing&lt;/li&gt;
-&lt;li&gt;Stay Ahead in Advanced Manufacturing&lt;/li&gt;
-&lt;li&gt;G-Code Programming for CNC Foundations&lt;/li&gt;
-&lt;li&gt;Additive Manufacturing: Optimizing 3D Prints&lt;/li&gt;
-&lt;li&gt;Learning 3D Printing&lt;/li&gt;
-&lt;li&gt;Rapid Prototyping for Product Design&lt;/li&gt;
-&lt;li&gt;Introduction to Geometric Dimensioning and Tolerancing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1RBIHEzTTbwBxfH1CIPjc3cc0jEqoff1g/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Composite Manufacturing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1AgFBMwl9Tlndd4bX8XBmrPMMBGMPzhGd/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stay Ahead in Advanced Manufacturing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1RNe4ARLT0ERXMx4krSWLfby-4vi2gAlx/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;G-Code Programming for CNC Foundations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1FPSkXFcdVysxcc40inR-7Wh9EjNnA2f0/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Additive Manufacturing: Optimizing 3D Prints&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1W_PlnKoBqmjEueGqFFvfy3aCKo-f8sYZ/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning 3D Printing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1V0FcBII0QWaRwIlWmEOi757a-cvQa3Ve/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rapid Prototyping for Product Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1hjfuUZmIZcMH0bNeW05bUpDMDtJ4bxUL/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Geometric Dimensioning and Tolerancing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[Engineering Drawings for Manufacturing]&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -300,6 +301,7 @@ sliderJQuery(function( $ ) {
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/linkedin.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/proglove.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/sample.jpeg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/venn_diagram.png);&#34;&gt;&lt;/li&gt;
     &lt;/ol&gt;
     &lt;span class=&#34;nav fa fa-chevron-left fa-3x&#34; id=&#34;left&#34;&gt;&lt;/span&gt;
     &lt;span class=&#34;nav fa fa-chevron-right fa-3x&#34; id=&#34;right&#34;&gt;&lt;/span&gt;

@@ -109,6 +109,7 @@
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/linkedin.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/proglove.svg);&#34;&gt;&lt;/li&gt;
                 &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/sample.jpeg);&#34;&gt;&lt;/li&gt;
+                &lt;li class=&#34;slide&#34; style=&#34;background-image:url(/img/venn_diagram.png);&#34;&gt;&lt;/li&gt;
     &lt;/ol&gt;
     &lt;span class=&#34;nav fa fa-chevron-left fa-3x&#34; id=&#34;left&#34;&gt;&lt;/span&gt;
     &lt;span class=&#34;nav fa fa-chevron-right fa-3x&#34; id=&#34;right&#34;&gt;&lt;/span&gt;
@@ -209,12 +210,11 @@ sliderJQuery(function( $ ) {
 &lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1brXMaxoC7cWvyGjoDqqXr1rB9EV3p5NG/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning Fusion 360 CAM&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;[Design for Additive Manufacturing: FDM]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1O45ugjhSFvz_u87ci-EZ0ke_SbVgtmmK/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Design for Additive Manufacturing: FDM&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;[Master Design for Plastic Manufacturing]&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/11hkHmGoCvlf8Iq-FtKCCet3znopJOMSe/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Master Design for Plastic Manufacturing&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Autodesk Inventor&lt;/p&gt;
 &lt;/li&gt;
