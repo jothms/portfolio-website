@@ -27,4 +27,4 @@ advanced:
 
 **Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
 
-![Venn Diagram](/img/sample.jpeg)
+![Venn Diagram](/img/venn_diagram.png)

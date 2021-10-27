@@ -44,9 +44,8 @@ url_video: ""
 * [Fusion 360: Designing for Plastics](https://drive.google.com/file/d/1qayfP9TaHgakGEF0cvVEiY-5jzPlyevW/view?usp=sharing)         
 * [Fusion 360: 3D Printed Product Enclosure](https://drive.google.com/file/d/1-LxUIJB8ehAwePVtyCi38DAQLeGOWYwt/view?usp=sharing)   
 * [Learning Fusion 360 CAM](https://drive.google.com/file/d/1brXMaxoC7cWvyGjoDqqXr1rB9EV3p5NG/view?usp=sharing)
-* [Design for Additive Manufacturing: FDM]
-* [Master Design for Plastic Manufacturing]     
-* 
+* [Design for Additive Manufacturing: FDM](https://drive.google.com/file/d/1O45ugjhSFvz_u87ci-EZ0ke_SbVgtmmK/view?usp=sharing)
+* [Master Design for Plastic Manufacturing](https://drive.google.com/file/d/11hkHmGoCvlf8Iq-FtKCCet3znopJOMSe/view?usp=sharing)
 
 * Autodesk Inventor
 * AutoCAD

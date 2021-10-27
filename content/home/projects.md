@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Mechanical Engineering
+  - name: Lean Six Sigma
     tag: Mech
   - name: Production
     tag: Production

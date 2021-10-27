@@ -54,4 +54,4 @@ url_video: ""
 * [Project Management Foundations: Communication](https://drive.google.com/file/d/1AbWzAc4s-i6y6Nnxg8iZZDegC23WkOMj/view?usp=sharing)
 * [Change Management Foundations](https://drive.google.com/file/d/16MyBxDET5hgWTJawRZU9kevU20IOHI5P/view?usp=sharing)
 
-#### [Implementing Lean: A Case Study](https://drive.google.com/file/d/1kOuCIaV6U4GTfPZUNtW8e06-CHz-uFEd/view?usp=sharing)        
+#### [Implementing Lean: A Case Study](https://drive.google.com/file/d/1kOuCIaV6U4GTfPZUNtW8e06-CHz-uFEd/view?usp=sharing)
