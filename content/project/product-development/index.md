@@ -30,9 +30,6 @@ url_video: ""
 #slides: example
 ---
 
-{{< gallery-slider dir="/img/" width="720px" height="500px" auto-slide="4000" >}}  
-
-<br>
 
 * Tableau Essential Training                  07  2021 
 * Learning SQL Programming                    11  2020

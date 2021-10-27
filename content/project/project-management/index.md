@@ -30,9 +30,6 @@ url_video: ""
 #slides: example
 ---
 
-{{< gallery-slider dir="/img/" width="720px" height="500px" auto-slide="4000" >}}  
-
-<br>
 
 ### [Become a Project Manager](https://drive.google.com/file/d/15EUBlhrbKB4D_L_WOTalowgZXYx5jl7L/view?usp=sharing)
 * [Project Management Foundations](https://drive.google.com/file/d/1vj9Zl28c_4W_-EWIFV0lp3ZeLIUdi2_J/view?usp=sharing)

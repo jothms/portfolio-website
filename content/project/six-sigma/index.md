@@ -30,10 +30,6 @@ url_video: ""
 #slides: example
 ---
 
-{{< gallery-slider dir="/img/" width="720px" height="500px" auto-slide="4000" >}}  
-
-<br>
-
 ### [Become a Six Sigma Yellow Belt](https://drive.google.com/file/d/1L2c8MNmT5GwVVohLtQYL7SO8lpLQzBjI/view?usp=sharing)
 * [Operational Excellence Foundations](https://drive.google.com/file/d/1TAYMsEUVyWltaZqxhbxf1D-9a2_ytlPr/view?usp=sharing) 
 * [Six Sigma Foundations](https://drive.google.com/file/d/18aSxWLizFAOdzwVFqL5QX9NXBjruNxD0/view?usp=sharing)         

@@ -3,7 +3,7 @@ widget: hero
 active: true
 headless: true
 weight: 30
-title: Hi! I'm Joseph.
+title: <br> <br> Hi! I'm Joseph.
 hero_media: nerd.png
 #cta:
 #  label: '**Get Started**'
@@ -19,12 +19,10 @@ hero_media: nerd.png
 #    gradient_end: '#1976d2'
 #    gradient_start: '#004ba0'
 #    text_color_light: true
-advanced:
-  css_class: fullscreen
+#advanced:
+#  css_class: fullscreen
 ---
 
 **The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
 
 **Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
-
-![Venn Diagram](/img/venn_diagram.png)

@@ -30,9 +30,5 @@ url_video: ""
 #slides: example
 ---
 
-{{< gallery-slider dir="/img/" width="720px" height="500px" auto-slide="4000" >}}  
-
-<br>
-
 ### [Innovation Management]
 * [Ideo]()

@@ -30,9 +30,6 @@ url_video: ""
 #slides: example
 ---
 
-{{< gallery-slider dir="/img/" width="720px" height="500px" auto-slide="4000" >}}  
-
-<br>
 
 * [Introduction to Composite Manufacturing](https://drive.google.com/file/d/1RBIHEzTTbwBxfH1CIPjc3cc0jEqoff1g/view?usp=sharing)     
 * [Stay Ahead in Advanced Manufacturing](https://drive.google.com/file/d/1AgFBMwl9Tlndd4bX8XBmrPMMBGMPzhGd/view?usp=sharing)   
