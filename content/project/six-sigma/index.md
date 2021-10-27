@@ -1,6 +1,6 @@
 ---
 title: Lean Six Sigma
-summary: Certifications related tosdfsd
+summary: Certifications related <br> tosdfsd 
 tags:
 - six-sigma
 date: "2021-10-20T00:00:00Z"
