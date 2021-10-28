@@ -3,7 +3,7 @@ widget: hero
 active: true
 headless: true
 weight: 30
-title: <br> <br> Hi! I'm Joseph.
+title: Hi! I'm Joseph.
 hero_media: nerd.png
 #cta:
 #  label: '**Get Started**'
@@ -22,7 +22,8 @@ hero_media: nerd.png
 #advanced:
 #  css_class: fullscreen
 ---
+## I’m a hybrid professional, and I call myself a Creative Disruptor — working at the intersection of innovation with engineering.  
 
-**The FREE, Hugo-based open source website builder and template trusted by 500,000+ sites.**
+My hybrid title of Creative Disruptor truly captures my authentic identity because it’s distinct and summarizes who I am when all my disparate professional identities merge together.
 
-**Build anything with widgets** - from landing pages, knowledge bases, and courses to academic resumés, conferences, and tech blogs.
+Today, I’m a leading researcher and pioneer of this new field of hybrid professional identity. I work at the intersection of career development, identity studies, and personal branding.
