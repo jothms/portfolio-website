@@ -29,7 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-
-
-### [Innovation Management]
-* [Ideo]()
+* Tableau Essential Training                  07  2021 
+* Learning SQL Programming                    11  2020
