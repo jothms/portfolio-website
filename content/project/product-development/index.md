@@ -29,14 +29,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-### Design
-* [Industrial Design Foundations](https://drive.google.com/file/d/1zavOrTCTFIH86t6x_tRTMIT_-jSYCVyH/view?usp=sharing)   
-* [Fusion 360: Designing for Plastics](https://drive.google.com/file/d/1qayfP9TaHgakGEF0cvVEiY-5jzPlyevW/view?usp=sharing)         
-* [Fusion 360: 3D Printed Product Enclosure](https://drive.google.com/file/d/1-LxUIJB8ehAwePVtyCi38DAQLeGOWYwt/view?usp=sharing)   
-* [Learning Fusion 360 CAM](https://drive.google.com/file/d/1brXMaxoC7cWvyGjoDqqXr1rB9EV3p5NG/view?usp=sharing)
-* [Design for Additive Manufacturing: FDM](https://drive.google.com/file/d/1O45ugjhSFvz_u87ci-EZ0ke_SbVgtmmK/view?usp=sharing)
-* [Master Design for Plastic Manufacturing](https://drive.google.com/file/d/11hkHmGoCvlf8Iq-FtKCCet3znopJOMSe/view?usp=sharing)
-
 ### Autodesk
 [Autodesk Inventor](https://www.credly.com/badges/e25c7823-66c1-4593-9e26-966a91687072/public_url) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [AutoCAD](https://www.credly.com/badges/e0a6f5d1-3638-4734-8008-ea583cad3d2c/public_url)
 
@@ -44,6 +36,14 @@ url_video: ""
 
 ### Solidworks
 * [SOLIDWORKS 2021 Essential Training](https://drive.google.com/file/d/18ML3aaz8PYqI1uJzt4XCzKeeY6KB48mF/view?usp=sharing)
+
+### Design
+* [Industrial Design Foundations](https://drive.google.com/file/d/1zavOrTCTFIH86t6x_tRTMIT_-jSYCVyH/view?usp=sharing)   
+* [Fusion 360: Designing for Plastics](https://drive.google.com/file/d/1qayfP9TaHgakGEF0cvVEiY-5jzPlyevW/view?usp=sharing)         
+* [Fusion 360: 3D Printed Product Enclosure](https://drive.google.com/file/d/1-LxUIJB8ehAwePVtyCi38DAQLeGOWYwt/view?usp=sharing)   
+* [Learning Fusion 360 CAM](https://drive.google.com/file/d/1brXMaxoC7cWvyGjoDqqXr1rB9EV3p5NG/view?usp=sharing)
+* [Design for Additive Manufacturing: FDM](https://drive.google.com/file/d/1O45ugjhSFvz_u87ci-EZ0ke_SbVgtmmK/view?usp=sharing)
+* [Master Design for Plastic Manufacturing](https://drive.google.com/file/d/11hkHmGoCvlf8Iq-FtKCCet3znopJOMSe/view?usp=sharing)
 
 ### FEA
 #### [Master Simulation and Structural Analysis for SOLIDWORKS](https://drive.google.com/file/d/1p69nYfWGgUBjOHixNFNzaB9neu1qHqxf/view?usp=sharing)
