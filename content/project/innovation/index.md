@@ -30,5 +30,6 @@ url_video: ""
 #slides: example
 ---
 
-### [Innovation Management]
-* [Ideo]()
+### Innovation Management
+[Enterprise Design Thinking Practitioner](https://www.credly.com/badges/011cbf6e-8757-41cf-815d-76ae4d0cf37c/public_url)
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="011cbf6e-8757-41cf-815d-76ae4d0cf37c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
