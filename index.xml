@@ -132,11 +132,9 @@ The variance of the distribution is $\sigma^{2}$.
       <link>/project/innovation/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/project/innovation/</guid>
-      <description>&lt;h3 id=&#34;innovation-management&#34;&gt;[Innovation Management]&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;Ideo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>&lt;h3 id=&#34;innovation-management&#34;&gt;Innovation Management&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.credly.com/badges/011cbf6e-8757-41cf-815d-76ae4d0cf37c/public_url&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enterprise Design Thinking Practitioner&lt;/a&gt;&lt;/p&gt;
+&lt;div data-iframe-width=&#34;150&#34; data-iframe-height=&#34;270&#34; data-share-badge-id=&#34;011cbf6e-8757-41cf-815d-76ae4d0cf37c&#34; data-share-badge-host=&#34;https://www.credly.com&#34;&gt;&lt;/div&gt;&lt;script type=&#34;text/javascript&#34; async src=&#34;//cdn.credly.com/assets/utilities/embed.js&#34;&gt;&lt;/script&gt;</description>
     </item>
     
     <item>
@@ -377,7 +375,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-391546827&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-798521346&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -387,7 +385,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-391546827&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-798521346&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
