@@ -4,7 +4,7 @@ active: true
 headless: true
 weight: 30
 title: Hi! I'm Joseph.
-hero_media: nerd.png
+hero_media: false
 #cta:
 #  label: '**Get Started**'
 #  url: https://wowchemy.com/templates/
