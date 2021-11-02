@@ -30,6 +30,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+## CAD Certifications
 ### Autodesk
 [Autodesk Inventor](https://www.credly.com/badges/e25c7823-66c1-4593-9e26-966a91687072/public_url) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [AutoCAD](https://www.credly.com/badges/e0a6f5d1-3638-4734-8008-ea583cad3d2c/public_url)
 
@@ -37,6 +38,7 @@ url_video: ""
 
 ### Solidworks
 * [SOLIDWORKS 2021 Essential Training](https://drive.google.com/file/d/18ML3aaz8PYqI1uJzt4XCzKeeY6KB48mF/view?usp=sharing)
+* [SOLIDWORKS: Mold Design]()
 
 ### Design
 * [Industrial Design Foundations](https://drive.google.com/file/d/1zavOrTCTFIH86t6x_tRTMIT_-jSYCVyH/view?usp=sharing)   
@@ -53,8 +55,6 @@ url_video: ""
 * [SOLIDWORKS Simulation: Dynamic Analysis](https://drive.google.com/file/d/1EPC0wLW4mMXODm1QYTMQhz3d5UccE6uz/view?usp=sharing)
 * [SOLIDWORKS: Advanced Simulation](https://drive.google.com/file/d/1ylhGdg-6zp2kMqsZ-m3P80XlWnVZMImd/view?usp=sharing)
 * [SOLIDWORKS: Shell and Beam Modeling in FEA](https://drive.google.com/file/d/1dit_kqpFEtGHi6ybccG3tGzAKB9b4RsZ/view?usp=sharing)
-
-### Rapid Prototyping
 
 
 

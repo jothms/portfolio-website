@@ -30,7 +30,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fc6a6368-3e72-4f4d-a8e7-c1a6dab5729e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### [Become a Project Manager](https://drive.google.com/file/d/15EUBlhrbKB4D_L_WOTalowgZXYx5jl7L/view?usp=sharing)
 * [Project Management Foundations](https://drive.google.com/file/d/1vj9Zl28c_4W_-EWIFV0lp3ZeLIUdi2_J/view?usp=sharing)
@@ -46,3 +45,6 @@ url_video: ""
 
 ### [Develop Your Project Management Skills](https://drive.google.com/file/d/1lFksKIjfOwdgAh_qHWqACx09sOB09klC/view?usp=sharing)
 * [Software Project Management Foundations](https://drive.google.com/file/d/1SB2nt38cMVkGzidhWr3wH8fpc-nM_tNN/view?usp=sharing)
+
+### Student Member Association for Project Management
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fc6a6368-3e72-4f4d-a8e7-c1a6dab5729e" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>

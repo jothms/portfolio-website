@@ -30,5 +30,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
-* Tableau Essential Training                  07  2021 
-* Learning SQL Programming                    11  2020
+* [Tableau Essential Training](https://drive.google.com/file/d/1S3s96gaQ1wicIxRDwioRHx58QIxRg98O/view?usp=sharing)
+* [Learning SQL Programming](https://drive.google.com/file/d/103EPQ__CHXp3zjIDhHgu0Mj3K2ieZ5f_/view?usp=sharing)

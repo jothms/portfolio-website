@@ -39,4 +39,4 @@ url_video: ""
 * [Learning 3D Printing](https://drive.google.com/file/d/1W_PlnKoBqmjEueGqFFvfy3aCKo-f8sYZ/view?usp=sharing)                     
 * [Rapid Prototyping for Product Design](https://drive.google.com/file/d/1V0FcBII0QWaRwIlWmEOi757a-cvQa3Ve/view?usp=sharing)  
 * [Introduction to Geometric Dimensioning and Tolerancing](https://drive.google.com/file/d/1hjfuUZmIZcMH0bNeW05bUpDMDtJ4bxUL/view?usp=sharing)
-* [Engineering Drawings for Manufacturing]
+* [Engineering Drawings for Manufacturing]()
