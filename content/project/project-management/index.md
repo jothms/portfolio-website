@@ -4,6 +4,7 @@ summary: Certifications related to PM
 tags:
 - project-management
 date: "2021-10-20T00:00:00Z"
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

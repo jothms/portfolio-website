@@ -3,7 +3,8 @@ title: Miscellaneous
 summary: Certifications related tosdfsd
 tags:
 - six-sigma
-date: "2021-10-20T00:00:00Z"
+date: "2021-10-11T00:00:00Z"
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
