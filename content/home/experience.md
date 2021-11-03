@@ -37,8 +37,8 @@ experience:
     #    * Deploying
         
   - title: Production Consultant
-    company: CHASS ENGINEERING
-    company_url: ''
+    company: Chass Engineering
+    company_url: '()'
     company_logo: Chass
     location: Munich
     date_start: '2014-06-01'
@@ -46,7 +46,7 @@ experience:
     #description: Taught electronic engineering and researched semiconductor physics.
 
   - title: Graduate Engineer Program
-    company: Indian SPACE RESEARCH ORGANIZATION (Department of Space)
+    company: Indian Space Research Organization
     company_url: 'https://www.isro.gov.in/'
     company_logo: ISRO 
     location: India

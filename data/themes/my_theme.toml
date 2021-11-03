@@ -5,20 +5,14 @@ name = "my_theme"
 light = false
 
 # Primary
-primary = "#30fc38"
+primary = "rgb(255, 97, 56)"
 
 # Menu
-menu_primary = "#fff"
-menu_text = "#34495e"
-menu_text_active = "#30fc38"
-menu_title = "#2b2b2b"
+menu_primary = "rgb(20, 22, 34)"
+menu_text = "rgba(255,255,255,0.6)"
+menu_text_active = "rgba(255,255,255,1)"
+menu_title = "#fff"
 
 # Home sections
-home_section_even = "#132433"
-home_section_odd = "#0d1b28"
-
-[dark]
-  link = "#30fc38"
-  link_hover = "#bbdefb"
-  primary = "#30fc38"
-  menu_text_active = "#30fc38"
+home_section_odd = "hsla(231, 15%, 18%, 1)"
+home_section_even = "hsla(231, 15%, 16%, 1)"
