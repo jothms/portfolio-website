@@ -5,7 +5,7 @@ name = "my_theme"
 light = false
 
 # Primary
-primary = "rgb(255, 97, 56)"
+primary = "rgb(3, 149, 222)"
 
 # Menu
 menu_primary = "rgb(20, 22, 34)"
