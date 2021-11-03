@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>management | Engineering &amp; abstract problem solving</title>
-    <link>/tag/management/</link>
-      <atom:link href="/tag/management/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.josephthomas.co/tag/management/</link>
+      <atom:link href="https://www.josephthomas.co/tag/management/index.xml" rel="self" type="application/rss+xml" />
     <description>management</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Joseph Thomas Thekkekara, 2021.</copyright><lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hud5a1d0563d6eb59a78b1280f92f270ed_54800_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.josephthomas.co/media/icon_hud5a1d0563d6eb59a78b1280f92f270ed_54800_512x512_fill_lanczos_center_3.png</url>
       <title>management</title>
-      <link>/tag/management/</link>
+      <link>https://www.josephthomas.co/tag/management/</link>
     </image>
     
     <item>
       <title>Innovation Management</title>
-      <link>/project/innovation/</link>
+      <link>https://www.josephthomas.co/project/innovation/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/project/innovation/</guid>
+      <guid>https://www.josephthomas.co/project/innovation/</guid>
       <description>&lt;h3 id=&#34;certified-value-manager&#34;&gt;Certified Value Manager&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;&#34;&gt;Value Management I&lt;/a&gt;&lt;/li&gt;
@@ -34,9 +34,9 @@
     
     <item>
       <title>Project Management</title>
-      <link>/project/project-management/</link>
+      <link>https://www.josephthomas.co/project/project-management/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/project/project-management/</guid>
+      <guid>https://www.josephthomas.co/project/project-management/</guid>
       <description>&lt;h3 id=&#34;become-a-project-managerhttpsdrivegooglecomfiled15eublhrbkb4d_l_wotalowgzxyx5jl7lviewuspsharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/15EUBlhrbKB4D_L_WOTalowgZXYx5jl7L/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a Project Manager&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1vj9Zl28c_4W_-EWIFV0lp3ZeLIUdi2_J/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Management Foundations&lt;/a&gt;&lt;/li&gt;

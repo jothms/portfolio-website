@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>manufacturing | Engineering &amp; abstract problem solving</title>
-    <link>/tag/manufacturing/</link>
-      <atom:link href="/tag/manufacturing/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.josephthomas.co/tag/manufacturing/</link>
+      <atom:link href="https://www.josephthomas.co/tag/manufacturing/index.xml" rel="self" type="application/rss+xml" />
     <description>manufacturing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Joseph Thomas Thekkekara, 2021.</copyright><lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hud5a1d0563d6eb59a78b1280f92f270ed_54800_512x512_fill_lanczos_center_3.png</url>
+      <url>https://www.josephthomas.co/media/icon_hud5a1d0563d6eb59a78b1280f92f270ed_54800_512x512_fill_lanczos_center_3.png</url>
       <title>manufacturing</title>
-      <link>/tag/manufacturing/</link>
+      <link>https://www.josephthomas.co/tag/manufacturing/</link>
     </image>
     
     <item>
       <title>Lean Six Sigma</title>
-      <link>/project/six-sigma/</link>
+      <link>https://www.josephthomas.co/project/six-sigma/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/project/six-sigma/</guid>
+      <guid>https://www.josephthomas.co/project/six-sigma/</guid>
       <description>&lt;h3 id=&#34;become-a-six-sigma-yellow-belthttpsdrivegooglecomfiled1l2c8mnmt5gwvvohltqyl7so8lplqzbjiviewuspsharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/1L2c8MNmT5GwVVohLtQYL7SO8lpLQzBjI/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a Six Sigma Yellow Belt&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1TAYMsEUVyWltaZqxhbxf1D-9a2_ytlPr/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Operational Excellence Foundations&lt;/a&gt;&lt;/li&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>Manufacturing</title>
-      <link>/project/manufacturing/</link>
+      <link>https://www.josephthomas.co/project/manufacturing/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>/project/manufacturing/</guid>
+      <guid>https://www.josephthomas.co/project/manufacturing/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1RBIHEzTTbwBxfH1CIPjc3cc0jEqoff1g/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Composite Manufacturing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1AgFBMwl9Tlndd4bX8XBmrPMMBGMPzhGd/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stay Ahead in Advanced Manufacturing&lt;/a&gt;&lt;/li&gt;
