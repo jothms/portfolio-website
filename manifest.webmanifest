@@ -2,8 +2,8 @@
   "name": "Engineering & abstract problem solving",
   "short_name": "Engineering & abstract problem solving",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "rgb(255, 97, 56)",
+  "background_color": "rgb(255, 97, 56)",
   "icons": [{
     "src": "/media/icon_hud5a1d0563d6eb59a78b1280f92f270ed_54800_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
