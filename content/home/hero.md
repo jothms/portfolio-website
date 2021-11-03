@@ -27,3 +27,9 @@ hero_media: false
 My hybrid title of Creative Disruptor truly captures my authentic identity because it’s distinct and summarizes who I am when all my disparate professional identities merge together.
 
 Today, I’m a leading researcher and pioneer of this new field of hybrid professional identity. I work at the intersection of career development, identity studies, and personal branding.
+
+
+- people who have a breadth of abilities across the spectrum and in-depth knowledge in a specific domain 
+- passionate about learning and acquiring new skills, especially the latest trends in technology.
+- Help build innovative products using Mechanical Engineering principles by integrating various pillars of innovation (Design thinking approach) 
+- Also love data driven approach and my research skills are top of the line

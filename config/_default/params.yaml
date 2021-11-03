@@ -4,8 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+# Dark, Earth
 
-theme: Forest
+theme: Minimal
 day_night: false
 font: ''
 font_size: M

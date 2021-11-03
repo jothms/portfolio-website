@@ -46,12 +46,15 @@ social:
   link: '/#contact'
   display:
     header: true
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jothms
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/jothms
 - icon: linkedin
   icon_pack: fab
   link: www.linkedin.com/in/t-joseph-thomas
+- icon: xing-square
+  icon_pack: fab
+  link: https://www.xing.com/profile/JosephThomas_Thekkekara
 - icon: calendar-alt
   icon_pack: far
   link: https://calendly.com/jothms/coffee_chat
