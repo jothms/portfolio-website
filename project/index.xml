@@ -77,7 +77,7 @@
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1W_PlnKoBqmjEueGqFFvfy3aCKo-f8sYZ/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning 3D Printing&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1V0FcBII0QWaRwIlWmEOi757a-cvQa3Ve/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rapid Prototyping for Product Design&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1hjfuUZmIZcMH0bNeW05bUpDMDtJ4bxUL/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Geometric Dimensioning and Tolerancing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;[Engineering Drawings for Manufacturing]&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Engineering Drawings for Manufacturing&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -87,12 +87,14 @@
       <link>/project/product-development/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/project/product-development/</guid>
-      <description>&lt;h3 id=&#34;autodesk&#34;&gt;Autodesk&lt;/h3&gt;
+      <description>&lt;h2 id=&#34;cad-certifications&#34;&gt;CAD Certifications&lt;/h2&gt;
+&lt;h3 id=&#34;autodesk&#34;&gt;Autodesk&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.credly.com/badges/e25c7823-66c1-4593-9e26-966a91687072/public_url&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Autodesk Inventor&lt;/a&gt;                                                 &lt;a href=&#34;https://www.credly.com/badges/e0a6f5d1-3638-4734-8008-ea583cad3d2c/public_url&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AutoCAD&lt;/a&gt;&lt;/p&gt;
 &lt;div data-iframe-width=&#34;150&#34; data-iframe-height=&#34;270&#34; data-share-badge-id=&#34;e25c7823-66c1-4593-9e26-966a91687072&#34; data-share-badge-host=&#34;https://www.credly.com&#34;&gt;&lt;/div&gt;&lt;script type=&#34;text/javascript&#34; async src=&#34;//cdn.credly.com/assets/utilities/embed.js&#34;&gt;&lt;/script&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;div data-iframe-width=&#34;150&#34; data-iframe-height=&#34;270&#34; data-share-badge-id=&#34;e0a6f5d1-3638-4734-8008-ea583cad3d2c&#34; data-share-badge-host=&#34;https://www.credly.com&#34;&gt;&lt;/div&gt;&lt;script type=&#34;text/javascript&#34; async src=&#34;//cdn.credly.com/assets/utilities/embed.js&#34;&gt;&lt;/script&gt;
 &lt;h3 id=&#34;solidworks&#34;&gt;Solidworks&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/18ML3aaz8PYqI1uJzt4XCzKeeY6KB48mF/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOLIDWORKS 2021 Essential Training&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;SOLIDWORKS: Mold Design&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;design&#34;&gt;Design&lt;/h3&gt;
 &lt;ul&gt;
@@ -112,7 +114,6 @@
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ylhGdg-6zp2kMqsZ-m3P80XlWnVZMImd/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOLIDWORKS: Advanced Simulation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1dit_kqpFEtGHi6ybccG3tGzAKB9b4RsZ/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOLIDWORKS: Shell and Beam Modeling in FEA&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;rapid-prototyping&#34;&gt;Rapid Prototyping&lt;/h3&gt;
 </description>
     </item>
     
@@ -121,8 +122,7 @@
       <link>/project/project-management/</link>
       <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/project/project-management/</guid>
-      <description>&lt;div data-iframe-width=&#34;150&#34; data-iframe-height=&#34;270&#34; data-share-badge-id=&#34;fc6a6368-3e72-4f4d-a8e7-c1a6dab5729e&#34; data-share-badge-host=&#34;https://www.credly.com&#34;&gt;&lt;/div&gt;&lt;script type=&#34;text/javascript&#34; async src=&#34;//cdn.credly.com/assets/utilities/embed.js&#34;&gt;&lt;/script&gt;
-&lt;h3 id=&#34;become-a-project-managerhttpsdrivegooglecomfiled15eublhrbkb4d_l_wotalowgzxyx5jl7lviewuspsharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/15EUBlhrbKB4D_L_WOTalowgZXYx5jl7L/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a Project Manager&lt;/a&gt;&lt;/h3&gt;
+      <description>&lt;h3 id=&#34;become-a-project-managerhttpsdrivegooglecomfiled15eublhrbkb4d_l_wotalowgzxyx5jl7lviewuspsharing&#34;&gt;&lt;a href=&#34;https://drive.google.com/file/d/15EUBlhrbKB4D_L_WOTalowgZXYx5jl7L/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Become a Project Manager&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1vj9Zl28c_4W_-EWIFV0lp3ZeLIUdi2_J/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Management Foundations&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1zsktor2cRtNj2JCNPWGEecnV03ZIrP6s/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Project Management Foundations: Ethics&lt;/a&gt;&lt;/li&gt;
@@ -139,6 +139,8 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1SB2nt38cMVkGzidhWr3wH8fpc-nM_tNN/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Software Project Management Foundations&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;student-member-association-for-project-management&#34;&gt;Student Member Association for Project Management&lt;/h3&gt;
+&lt;div data-iframe-width=&#34;150&#34; data-iframe-height=&#34;270&#34; data-share-badge-id=&#34;fc6a6368-3e72-4f4d-a8e7-c1a6dab5729e&#34; data-share-badge-host=&#34;https://www.credly.com&#34;&gt;&lt;/div&gt;&lt;script type=&#34;text/javascript&#34; async src=&#34;//cdn.credly.com/assets/utilities/embed.js&#34;&gt;&lt;/script&gt;
 </description>
     </item>
     
@@ -148,8 +150,8 @@
       <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
       <guid>/project/miscellaneous/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;Tableau Essential Training                  07  2021&lt;/li&gt;
-&lt;li&gt;Learning SQL Programming                    11  2020&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1S3s96gaQ1wicIxRDwioRHx58QIxRg98O/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tableau Essential Training&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/103EPQ__CHXp3zjIDhHgu0Mj3K2ieZ5f_/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning SQL Programming&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
