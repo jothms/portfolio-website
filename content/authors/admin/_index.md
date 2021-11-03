@@ -31,7 +31,7 @@ education:
   - course: M.Sc. in Production Science and Management
     institution: Technische Universität Graz, Austria
     year: 2021
-  - course: M.Sc. in Mechanical and Aerospace Engineering(Exchange semester)
+  - course: M.Sc. in Mechanical and Aerospace Engineering(Exchange)
     institution:  Nanyang Technological University, Singapore
     year: 2018
   - course: B.Sc. in Mechanical and Production Engineering
