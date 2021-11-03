@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>product-development | Engineering &amp; abstract problem solving</title>
-    <link>/tag/product-development/</link>
-      <atom:link href="/tag/product-development/index.xml" rel="self" type="application/rss+xml" />
-    <description>product-development</description>
+    <title>engineering | Engineering &amp; abstract problem solving</title>
+    <link>/tag/engineering/</link>
+      <atom:link href="/tag/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <description>engineering</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hud5a1d0563d6eb59a78b1280f92f270ed_54800_512x512_fill_lanczos_center_3.png</url>
-      <title>product-development</title>
-      <link>/tag/product-development/</link>
+      <title>engineering</title>
+      <link>/tag/engineering/</link>
     </image>
     
     <item>
@@ -43,6 +43,18 @@
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1EPC0wLW4mMXODm1QYTMQhz3d5UccE6uz/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOLIDWORKS Simulation: Dynamic Analysis&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1ylhGdg-6zp2kMqsZ-m3P80XlWnVZMImd/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOLIDWORKS: Advanced Simulation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1dit_kqpFEtGHi6ybccG3tGzAKB9b4RsZ/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SOLIDWORKS: Shell and Beam Modeling in FEA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miscellaneous</title>
+      <link>/project/miscellaneous/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>/project/miscellaneous/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/1S3s96gaQ1wicIxRDwioRHx58QIxRg98O/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tableau Essential Training&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://drive.google.com/file/d/103EPQ__CHXp3zjIDhHgu0Mj3K2ieZ5f_/view?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning SQL Programming&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
