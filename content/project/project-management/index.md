@@ -1,8 +1,8 @@
 ---
 title: Project Management
-summary: Certifications related to PM
+summary: Requirements, Schedules, Budgets, Risk, Teams, Managing stakeholders
 tags:
-- project-management
+- management
 date: "2021-10-20T00:00:00Z"
 show_date: false
 

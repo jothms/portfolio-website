@@ -1,8 +1,8 @@
 ---
 title: Miscellaneous
-summary: Certifications related tosdfsd
+summary: Certifications related to Tableau, SQL programming
 tags:
-- six-sigma
+- engineering
 date: "2021-10-11T00:00:00Z"
 show_date: false
 

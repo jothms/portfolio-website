@@ -1,8 +1,8 @@
 ---
 title: Innovation Management
-summary: Certifications related tosdfsd
-tags:
-- six-sigma
+summary: Design thinking, Value management
+tags: 
+- management
 date: "2021-10-20T00:00:00Z"
 show_date: false
 

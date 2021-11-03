@@ -1,8 +1,8 @@
 ---
 title: Lean Six Sigma
-summary: Certifications related <br> tosdfsd 
+summary: Lean production, Project management, Six sigma green belt
 tags:
-- six-sigma
+- manufacturing
 date: "2021-10-20T00:00:00Z"
 show_date: false
 

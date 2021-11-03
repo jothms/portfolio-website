@@ -31,6 +31,9 @@ education:
   - course: M.Sc. in Production Science and Management
     institution: Technische Universität Graz, Austria
     year: 2021
+  - course: M.Sc. in Mechanical and Aerospace Engineering(Exchange semester)
+    institution:  Nanyang Technological University, Singapore
+    year: 2018
   - course: B.Sc. in Mechanical and Production Engineering
     institution: Sathyabama University, India
     year: 2012
@@ -51,7 +54,7 @@ social:
 #  link: https://github.com/jothms
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/t-joseph-thomas
+  link: https://www.linkedin.com/in/t-joseph-thomas
 - icon: xing-square
   icon_pack: fab
   link: https://www.xing.com/profile/JosephThomas_Thekkekara

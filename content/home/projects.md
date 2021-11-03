@@ -27,10 +27,18 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Lean Six Sigma
-    tag: Mech
-  - name: Production
-    tag: Production
+  - name: Management
+    tag: management
+  - name: Engineering
+    tag: engineering
+  - name: Manufacturing
+    tag: manufacturing
+  #- name: Product Development
+  #  tag: Product Development
+  #- name: Project Management
+  #  tag: Management
+  #- name: Miscellaneous
+  # tag: Miscellaneous
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -1,8 +1,8 @@
 ---
 title: Product Development
-summary: Certifications related tosdfsd
+summary: Mechanical design, Computer aided design, Finite element analysis
 tags:
-- product-development
+- engineering
 date: "2021-10-20T00:00:00Z"
 show_date: false
 
