@@ -16,26 +16,26 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 75%
+- description: Solidworks , Autodesk Inventor
+  icon: drafting-compass
+  icon_pack: fas
+  name: Mechanical Design
+- description: Design for Manufaturing, Design for Assembly
   icon: wrench
   icon_pack: fas
   name: Product Development
+- description: Yellow belt, Green belt
+  icon: industry
+  icon_pack: fas
+  name: Lean Manufacturing
 - description: 80%
   icon: cogs
   icon_pack: fas
   name: Design Thinking
-- description: 85%
-  icon: industry
-  icon_pack: fas
-  name: Lean Manufacturing
 - description: 70%
   icon: tools
   icon_pack: fas
   name: Rapid Prototyping
-- description: 75%
-  icon: drafting-compass
-  icon_pack: fas
-  name: Computer Aided Design
 - description: 80%
   icon: clock
   icon_pack: fas

@@ -4,7 +4,7 @@ active: true
 headless: true
 weight: 30
 title: Hi! I'm Joseph.
-hero_media: Venn2.png
+hero_media: featured.png
 #cta:
 #  label: '**Get Started**'
 #  url: https://wowchemy.com/templates/
@@ -22,14 +22,7 @@ hero_media: Venn2.png
 #advanced:
 #  css_class: fullscreen
 ---
-## I would describe myself as a hybrid professional working at the intersection of _***Innovation***_ and _***Engineering***_.  
+## I would describe myself as a hybrid professional working at the intersection of _***Mechanical Engineering***_ and _***Manufacturing***_.  
+</br>
 
-
-
-- people who have a breadth of abilities across the spectrum and in-depth knowledge in a specific domain 
-- passionate about learning and acquiring new skills, especially the latest trends in technology.
-- Help build innovative products using Mechanical Engineering principles by integrating various pillars of innovation (Design thinking approach) 
-- Also love data driven approach and my research skills are top of the line
-
-
-![screen reader text](Venn2.png "caption")
+I am really passionate about building innovative products right from ideation to series production. I have a breadth of abilities across the Mechanical Engineering spectrum and in-depth knowledge in Production. My objective is to build products that can connect to the end user rather than applying problem solving engineering principles. 

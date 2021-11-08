@@ -42,7 +42,7 @@ url_video: ""
 
 ### [Becoming a Six Sigma Green Belt](https://drive.google.com/file/d/1kOuCIaV6U4GTfPZUNtW8e06-CHz-uFEd/view?usp=sharing)         
 * [Statistics Foundations: 1](https://drive.google.com/file/d/1rTxK2geXIRN8bc3px1X90KzaxqdQHYmg/view?usp=sharing)           
-* [Statistics Foundations: 2](https://drive.google.com/file/d/1rTxK2geXIRN8bc3px1X90KzaxqdQHYmg/view?usp=sharing)           
+* [Statistics Foundations: 2](https://drive.google.com/file/d/1MswkWdEbEKOX9mgUGJ5zhzFDTLizL5y-/view?usp=sharing)           
 * [Statistics Foundations: 3](https://drive.google.com/file/d/1GL30JlkhDBTw9hxjmMFM5F0T0aQ3oAED/view?usp=sharing)               
 * [Learning Minitab](https://drive.google.com/file/d/1Fym4VcO-4k5aE5UNegPwh9EtdMtqGL9C/view?usp=sharing)
 * [Six Sigma: Green Belt](https://drive.google.com/file/d/1kOuCIaV6U4GTfPZUNtW8e06-CHz-uFEd/view?usp=sharing)
@@ -50,5 +50,5 @@ url_video: ""
 * [Project Management Foundations: Communication](https://drive.google.com/file/d/1AbWzAc4s-i6y6Nnxg8iZZDegC23WkOMj/view?usp=sharing)
 * [Change Management Foundations](https://drive.google.com/file/d/16MyBxDET5hgWTJawRZU9kevU20IOHI5P/view?usp=sharing)
 
-### [Professional Certificate Program – Lean Production]()
-### [Implementing Lean: A Case Study](https://drive.google.com/file/d/1kOuCIaV6U4GTfPZUNtW8e06-CHz-uFEd/view?usp=sharing)
+### [Professional Certificate Program – Lean Production](https://courses.edx.org/certificates/3563e5504d7549eab84d6043cdb19499)
+### [Implementing Lean: A Case Study](https://drive.google.com/file/d/1PWuNRlRVJZtvy1U7IqtG6KCCUsVDbyUT/view?usp=sharing)
