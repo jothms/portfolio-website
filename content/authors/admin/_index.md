@@ -76,7 +76,7 @@ email: ""
 highlight_name: true
 ---
 
-Dynamic, accomplished Mechanical Engineer with more than 4+ years of experience in various high-level engineering projects and startup ventures. Creative disrupter with skill sets intersecting Mechanical and Production
+Dynamic, accomplished Mechanical Engineer with diverse experience in various high-level engineering projects and startup ventures. Creative disrupter with skill sets intersecting Mechanical and Production
 Engineering and Innovation management. Out-of-the-box innovative thinker and a multidisciplinary creative who can bring in new perspectives when building new products and services.  Get shit done mentality with a love for startup ventures and fast-paced environments. Expertise in scaling and ramping up business verticals and projects in corporate and startup environments.
 
 {{< icon name="download" pack="fas" >}} Please download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
